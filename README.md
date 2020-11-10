@@ -1,5 +1,5 @@
 # GetJS CDN
 
 ```html
-getjs.now.sh
+getjs.now.sh/libs
 ```
